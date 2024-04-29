@@ -1,2 +1,2 @@
 # xlonx-join-quit-message
-Plugin minecraft
+Source of minecraft plugin!
