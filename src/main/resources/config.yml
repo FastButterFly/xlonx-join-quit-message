@@ -1,0 +1,4 @@
+no_permission: "&cYou don't have permission to do that!"
+join_message: "&8&l[ &a&l+ &8&l] &e{PLAYER} Joined the game"
+quit_message: "&8&l[ &a&l+ &8&l] &e{PLAYER} Quit the game"
+reload_message: "&e&lConfig reloaded!"

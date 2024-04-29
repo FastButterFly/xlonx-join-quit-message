@@ -1,0 +1,6 @@
+name: xlonx-welcome-quit-msg
+version: '${project.version}'
+main: me.xlonx.xlonxwelcomequitmsg.main
+api-version: '1.20'
+commands:
+  joinquit-reload:
